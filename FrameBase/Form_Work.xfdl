@@ -3,7 +3,7 @@
   <Form id="Form_Work" width="1920" height="1080" titletext="Form_Work">
     <Layouts>
       <Layout width="1920" height="1080" screenid="Desktop_screen">
-        <Button id="Button00" left="68px" top="60px" width="120px" height="50px" text="Button00"/>
+        <Button id="Button00" left="180" top="140" width="120" height="50" text="Button00"/>
       </Layout>
     </Layouts>
     <Script type="xscript5.1"><![CDATA[]]>
